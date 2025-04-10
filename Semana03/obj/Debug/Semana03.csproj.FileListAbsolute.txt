@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\FUND_ALGT\Fundamentos de algoritmos\Semana03\bin\Debug\Semana03.exe.config
+C:\Users\Usuario\Desktop\FUND_ALGT\Fundamentos de algoritmos\Semana03\bin\Debug\Semana03.exe
+C:\Users\Usuario\Desktop\FUND_ALGT\Fundamentos de algoritmos\Semana03\bin\Debug\Semana03.pdb
+C:\Users\Usuario\Desktop\FUND_ALGT\Fundamentos de algoritmos\Semana03\obj\Debug\Semana03.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\FUND_ALGT\Fundamentos de algoritmos\Semana03\obj\Debug\Semana03.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\FUND_ALGT\Fundamentos de algoritmos\Semana03\obj\Debug\Semana03.exe
+C:\Users\Usuario\Desktop\FUND_ALGT\Fundamentos de algoritmos\Semana03\obj\Debug\Semana03.pdb
